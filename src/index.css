@@ -104,6 +104,30 @@ body {
 }
 
 /* END HERO STYLES */
+.About {
+  margin-bottom: 1.6875rem; /* 27px */
+}
+
+.About,
+.Interest {
+  font-weight: 400;
+  text-align: left;
+  padding-left: 2.1875rem; /* 35px */
+  padding-right: 2.1875rem; /* 35px */
+}
+
+.About h3,
+.Interest h3 {
+  font-size: 1rem; /* 16px */
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.About p,
+.Interest p {
+  font-size: 0.64rem; /* 10.24px */
+  line-height: 1.5;
+}
 
 /* ABOUT STYLES */
 
