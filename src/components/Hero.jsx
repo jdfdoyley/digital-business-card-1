@@ -9,12 +9,12 @@ function Hero() {
       <h4>Frontend Developer</h4>
       <p>laurasmith.website</p>
 
-      <div>
-        <button>
-          <i class="fas fa-envelope"></i>Email
+      <div className="button-wrapper">
+        <button className="btn btn-default">
+          <i className="fas fa-envelope"></i>Email
         </button>
-        <button>
-          <i class="fab fa-linkedin"></i>LinkedIn
+        <button className="btn btn-primary">
+          <i className="fab fa-linkedin"></i>LinkedIn
         </button>
       </div>
     </section>

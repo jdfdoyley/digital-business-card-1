@@ -1,15 +1,9 @@
-import About from "./components/About";
-import Footer from "./components/Footer";
-import Hero from "./components/Hero";
-import Interests from "./components/Interest";
+import Card from "./components/Card";
 
 function App() {
   return (
     <div className="App">
-      <Hero />
-      <About />
-      <Interests />
-      <Footer />
+      <Card />
     </div>
   );
 }
